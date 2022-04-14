@@ -146,6 +146,7 @@ body {
   font-weight: 700;
   letter-spacing: 2px;
   box-shadow: var(--box-shadow-strong);
+  cursor: pointer;
 }
 
 .info {
